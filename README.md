@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimish Goyal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Senior+Backend+Engineer;Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+MongoDB;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Senior+Backend+Engineer;Node.js+%7C+TypeScript;PostgreSQL+%7C+MongoDB+%7C+Redis;" alt="Typing SVG" />
 </p>
 
 ---
